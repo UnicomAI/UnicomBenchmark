@@ -3,7 +3,7 @@
 
 ## Introduction
 A-Eval is a benchmark designed to evaluate Chat LLMs of various scales from a practical application perspective. 
-The dataset includes ``678`` question-and-answer pairs spanning ``5`` categories, ``27`` sub-categories, and ``3`` difficulty levels. 
+The [dataset](./llm_678_2024-06-11-151217.json) includes ``678`` question-and-answer pairs spanning ``5`` categories, ``27`` sub-categories, and ``3`` difficulty levels. 
 A-Eval offers clear empirical and engineering guidelines for choosing the "best" model for real-world applications.
 
 ## Application-driven tasks taxonomy
