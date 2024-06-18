@@ -5,6 +5,7 @@
 
 ## News
 2024.6 We released an application-driven benchmark A-Eval.
+
 2024.6 We released a Chinese safety benchmark CHiSafetyBench.
 
 ## Contact
