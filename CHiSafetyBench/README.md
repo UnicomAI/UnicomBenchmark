@@ -3,12 +3,13 @@
 
 
 ## Introduction
+CHiSafetyBench is a dedicated safety benchmark for evaluating LLMs’ capabilities in identifying risky content and refusing answering risky questions in Chinese contexts. CHiSafetyBench incorporates a dataset that covers a hierarchical Chinese safety taxonomy consisting of 5 risk areas and 31 categories. This dataset comprises two types of tasks: multiple-choice questions and question-answering, evaluating LLMs from the perspectives of risk content identification and the ability to refuse answering risky questions respectively.
 
-- China Unicom AI Innovation Center releases a large-scale model safety dataset, which is designed based on the standard "Basic security requirements for generative artificial intelligence service" issued by the Chinese government on February 29, 2024. It covers 5 major areas and 31 categories of risk types, as illustrated in the diagram below.
-- The safety dataset comprises two types of data: risk content identification and refusal to answer.
-- Risk content identification data contains 1,861 multiple-choice questions (the data will continue to increase dynamically). The accuracy of the large model's selection is used to evaluate its ability to perceive and detect risky content.
-  - Refusal to answer data includes 462 questions that require a refusal to answer (the data will continue to increase dynamically). The large model's ability to identify risky questions and refuse to answer is assessed based on whether it refuses to respond.
-- This dataset is evaluated on 12 mainstream SOTA Chinese large models, assessing their risk identification and refusal to answer capabilities.
+1) We collect and open-source the first Chinese hierarchical safety assessment dataset, which comprises two types of task data: multiple-choice questions(MCQ) and question-answering(QA). Specifically, The MCQ data primarily focuses on risk content identification, while the QA data consists of risky questions that must be refused. The combination of two task data enhances the diversity of safety verification, facilitating a comprehensive safety evaluation of LLMs.
+
+2) We propose an automatic evaluation method based on LLMs, facilitating cost-effective and efficient testing of model safety detection and defense capabil- ities, significantly reducing the burden of human evaluation.
+
+3) We conduct a comprehensive safety evaluation of 12 SOTA Chinese LLMs. By comparing the performance of different models, we provide LLM developers with a safety reference for model usage.
 
 ![figure1](./images/figure1.png)
 
