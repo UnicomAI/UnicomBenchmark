@@ -3,7 +3,7 @@
 
 
 ## Introduction
-CHiSafetyBench is a dedicated safety benchmark for evaluating LLMs’ capabilities in identifying risky content and refusing answering risky questions in Chinese contexts. CHiSafetyBench incorporates a dataset that covers a hierarchical Chinese safety taxonomy consisting of 5 risk areas and 31 categories. This dataset comprises two types of tasks: multiple-choice questions and question-answering, evaluating LLMs from the perspectives of risk content identification and the ability to refuse answering risky questions respectively.
+CHiSafetyBench is a dedicated safety benchmark for evaluating LLMs’ capabilities in identifying risky content and refusing answering risky questions in Chinese contexts. CHiSafetyBench incorporates a [dataset](./dataset) that covers a hierarchical Chinese safety taxonomy consisting of 5 risk areas and 31 categories. This dataset comprises two types of tasks: multiple-choice questions and question-answering, evaluating LLMs from the perspectives of risk content identification and the ability to refuse answering risky questions respectively.
 
 * We collect and open-source the first Chinese hierarchical safety assessment dataset, which comprises two types of task data: multiple-choice questions(MCQ) and question-answering(QA). Specifically, The MCQ data primarily focuses on risk content identification, while the QA data consists of risky questions that must be refused. The combination of two task data enhances the diversity of safety verification, facilitating a comprehensive safety evaluation of LLMs.
 
