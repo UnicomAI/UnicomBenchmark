@@ -1,4 +1,4 @@
-# China Unicom Large Language Model safety Dataset
+# CHiSafetyBench: A Chinese Hierarchical Safety Benchmark for Large Language Models
 
 
 
