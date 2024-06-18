@@ -34,7 +34,10 @@ and 60, respectively.
 ### Accuracy by task.
 For each specific task and its corresponding sub-tasks, 
 the average accuracy of models with different scales. 
-(a) Accuracy when T = 60. (b) Accuracy when T = 90.
+
+(a) Accuracy when T = 60. 
+
+(b) Accuracy when T = 90.
 ![Evaluation Results](./images/fig-acc-subcategory-diff.png)
 
 ## Model Selection
