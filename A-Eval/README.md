@@ -17,7 +17,7 @@ A-Eval offers clear empirical and engineering guidelines for choosing the "best"
 Based on QWen1.5-72B-Chat, we design an automatic evaluation method to evaluate models of 8 varying scales.
 Our additional expert evaluation validates the reliability of the automatic evaluation method.
 
-### Average accuracy.
+### Average accuracy
 We presents the average accuracy of models with different scales on A-Eval. 
 
 (a) The average accuracy of models
@@ -31,7 +31,7 @@ and the solid lines depict automatic evaluation results using scoring thresholds
 and 60, respectively.
 ![Average accuracy](./images/fig-acc-average-and-difficultylevel.png)
 
-### Accuracy by task.
+### Accuracy by task
 For each specific task and its corresponding sub-tasks, 
 the average accuracy of models with different scales. 
 
