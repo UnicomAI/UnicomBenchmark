@@ -7,7 +7,7 @@ The dataset includes ``678`` question-and-answer pairs spanning ``5`` categories
 A-Eval offers clear empirical and engineering guidelines for choosing the "best" model for real-world applications.
 
 ## Application-driven tasks taxonomy
-![A-Eval tasks taxonomy](./images/fig-acc-selection.png)
+![A-Eval tasks taxonomy](./images/fig-distribution.png)
 
 * ``678`` QA pairs
 * ``5`` categories, ``27`` sub-categories
