@@ -7,7 +7,7 @@ CHiSafetyBench is a dedicated safety benchmark for evaluating LLMs’ capabiliti
 
 * We collect and open-source the first Chinese hierarchical safety assessment dataset, which comprises two types of task data: multiple-choice questions(MCQ) and question-answering(QA). Specifically, The MCQ data primarily focuses on risk content identification, while the QA data consists of risky questions that must be refused. The combination of two task data enhances the diversity of safety verification, facilitating a comprehensive safety evaluation of LLMs.
 
-* We propose an automatic evaluation method based on LLMs, facilitating cost-effective and efficient testing of model safety detection and defense capabil- ities, significantly reducing the burden of human evaluation.
+* We propose an automatic evaluation method based on LLMs, facilitating cost-effective and efficient testing of model safety detection and defense capabilities, significantly reducing the burden of human evaluation.
 
 * We conduct a comprehensive safety evaluation of 12 SOTA Chinese LLMs. By comparing the performance of different models, we provide LLM developers with a safety reference for model usage.
 
