@@ -8,5 +8,6 @@
 
 2024.6 We released a Chinese safety benchmark CHiSafetyBench.
 
+2024.7 We released ......
 ## Contact
 China Unicom AI Innovation Center, China United Network Communication Group Co.,Ltd.
