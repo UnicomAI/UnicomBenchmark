@@ -1,5 +1,0 @@
-fastapi
-uvicorn
-openai
-pydantic
-sse_starlette
