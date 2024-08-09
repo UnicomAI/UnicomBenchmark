@@ -1,4 +1,4 @@
-# ``A-Eval``: Application-driven Evaluation for Large Language Models
+# ``A-Eval``: What is the best model? Application-driven Evaluation for Large Language Models (NLPCC 2024 Accepted)
  
 
 ## Introduction
@@ -43,8 +43,11 @@ The best model is defined as the one that achieves the desired accuracy with the
 Using the evaluation results, users can effortlessly identify the best model by drawing horizontal lines on the performance charts. This is an example:
 ![Model Selection](./images/fig-acc-selection.png)
 
+## TODO
+We will provide code to evaluate the model using A-Eval
+
 ## Citation
-If you use this benchmark or dataset in your research, please cite our paper.
+If you use our benchmark or dataset in your research, please cite our paper.
 ```bash
 @misc{lian2024best,
       title={What is the best model? Application-driven Evaluation for Large Language Models}, 
