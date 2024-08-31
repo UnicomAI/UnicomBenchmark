@@ -46,7 +46,7 @@ CHiSafetyBench is a dedicated safety benchmark for evaluating LLMs’ capabiliti
 
   ![figure4](./images/figure4.png)
 
-- The performance between risky questions without and with conversational history 
+- The performance between risky questions without and with conversational history on the refusal to answer subset
 
   ![figure5](./images/figure5.png)
 ## Citation
