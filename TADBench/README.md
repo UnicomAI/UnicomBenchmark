@@ -14,7 +14,7 @@ TAD contains serious traffic incidents caused by rain, vandalism or other factor
 
 We made the TAD dataset publicly available on GitHub. We ensured that researchers worldwide can access and utilize this valuable resource for further research and development, fostering collaboration and innovation in the field.
 
-Please download TAD dataset from the following link
+Please download TAD dataset from the following link:
 - [Baidu Yun Pan](https://pan.baidu.com/s/1X8xRJWZ5izXuyUgGbGppjw): gi9f
 
 ## Citation
