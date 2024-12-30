@@ -12,7 +12,7 @@ We propose a novel image segmentation framework that incorporates an area-aware 
 ## RAOD dataset
 The RAOD dataset comprises 557 video sequences and 18,953 images, all with pixel-level manual annotations.
 
-Please download RAOD dataset from the following link
+Please download RAOD dataset from the following link:
 - [Baidu Yun Pan]( https://pan.baidu.com/s/1MdjOxZ2TQ-5PX_cB6PJQYg): 5tGb
 
 ## Citation
