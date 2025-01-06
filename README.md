@@ -14,6 +14,6 @@
 
 2024.12 We released a benchmark for road abandoned object detection from video surveillance, RAODBench.
 
-2024.12 We released a large-scale benchmark for traffic accidents detection from video surveillance, TADBench.
+2025.1 We released a large-scale benchmark for traffic accidents detection from video surveillance, TADBench.
 ## Contact
 China Unicom AI Innovation Center, China United Network Communication Group Co.,Ltd.
