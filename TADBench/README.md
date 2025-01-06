@@ -23,9 +23,13 @@ If you use our benchmark or dataset in your research, please cite our paper.
 @ARTICLE{10815954,
   author={Xu, Yajun and Hu, Huan and Huang, Chuwen and Nan, Yibing and Liu, Yuyao and Wang, Kai and Liu, Zhaoxiang and Lian, Shiguo},
   journal={IEEE Access}, 
-  title={TAD: A Large-scale Benchmark for Traffic Accidents Detection from Video Surveillance}, 
-  year={2024},
-  pages={1-1},
+  title={TAD: A Large-Scale Benchmark for Traffic Accidents Detection From Video Surveillance}, 
+  year={2025},
+  volume={13},
+  number={},
+  pages={2018-2033},
+  keywords={Accidents;Benchmark testing;Video surveillance;Feature extraction;Classification algorithms;YOLO;Visualization;Cameras;Traffic control;Prediction algorithms;Traffic accidents;large-scale;surveillance cameras;open-sourced},
   doi={10.1109/ACCESS.2024.3522384}
 }
+
 ```
