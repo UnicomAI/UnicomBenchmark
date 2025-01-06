@@ -24,8 +24,11 @@ If you use our benchmark or dataset in your research, please cite our paper.
   title={RAOD: A Benchmark for Road Abandoned Object Detection From Video Surveillance}, 
   year={2024},
   volume={12},
+  number={},
   pages={123985-123994},
+  keywords={Roads;Benchmark testing;Image segmentation;Video surveillance;Uncertainty;Object recognition;Training;Intelligent transportation systems;Road abandoned object detection;intelligent transportation system;video surveillance;area-aware attention mechanism},
   doi={10.1109/ACCESS.2024.3407955}
 }
+
 
 ```
