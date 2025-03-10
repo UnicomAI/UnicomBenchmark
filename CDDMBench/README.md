@@ -26,4 +26,18 @@ cd Qwen-VL
 sh finetune/finetune_lora_ds.sh
 ```
 
+## Citation
+If you find our dataset or model useful, please cite our work:
 
+```bibtex
+@inproceedings{liu2024multimodal,
+  title={A Multimodal Benchmark Dataset and Model for Crop Disease Diagnosis},
+  author={Liu, Xiang and Liu, Zhaoxiang and Hu, Huan and Chen, Zezhou and Wang, Kohou and Wang, Kai and Lian, Shiguo},
+  booktitle={European Conference on Computer Vision},
+  pages={157--170},
+  year={2024},
+  organization={Springer}
+}
+```
+## Paper
+For more details, please refer to our paper: [ECCV 2024 Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11606.pdf)
