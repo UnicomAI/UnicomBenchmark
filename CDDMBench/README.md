@@ -31,13 +31,13 @@ If you find our dataset or model useful, please cite our work:
 
 ```bibtex
 @InProceedings{10.1007/978-3-031-73016-0_10,
-author="Liu, Xiang
-and Liu, Zhaoxiang
-and Hu, Huan
-and Chen, Zezhou
-and Wang, Kohou
-and Wang, Kai
-and Lian, Shiguo",
+author="Xiang, Liu
+and Zhaoxiang, Liu
+and Huan, Hu
+and Zezhou, Chen
+and Kohou, Wang
+and Kai, Wang
+and Shiguo, Lian",
 title="A Multimodal Benchmark Dataset and Model for Crop Disease Diagnosis",
 booktitle="Computer Vision -- ECCV 2024",
 year="2025",
