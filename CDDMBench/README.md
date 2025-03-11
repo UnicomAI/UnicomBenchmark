@@ -48,4 +48,4 @@ isbn="978-3-031-73016-0"
 }
 ```
 ## Paper
-For more details, please refer to our paper: [ECCV 2024 Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11606.pdf) [arxiv](https://arxiv.org/abs/2503.06973)
+For more details, please refer to our paper: [ECCV 2024 Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11606.pdf)  , [arxiv](https://arxiv.org/abs/2503.06973)
