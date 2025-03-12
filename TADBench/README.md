@@ -16,7 +16,7 @@ We made the TAD dataset publicly available on GitHub. We ensured that researcher
 
 Please download TAD dataset from the following link:
 - [Baidu Yun Pan](https://pan.baidu.com/s/1X8xRJWZ5izXuyUgGbGppjw): gi9f
-- Google Drive: coming soon.
+- [Google Drive](https://drive.google.com/file/d/14GNlNcWLzN-sbzvmrMuSbAg_rZZ5yd26/view?usp=drive_link)
 
 ## Citation
 If you use our benchmark or dataset in your research, please cite our paper.
