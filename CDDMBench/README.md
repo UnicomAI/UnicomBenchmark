@@ -18,12 +18,20 @@ We offer the conversation data in two formats suitable for training Qwen-VL and 
 Please extract the conversation data to the /dataset/VQA/ directory. 
 - [Qwen-VL training data](dataset/VQA/Crop_Disease_train_qwenvl.zip)
 - [LLaVA training data](dataset/VQA/Crop_Disease_train_llava.zip)
+- [Test data](dataset/VQA/test_dataset.zip)
 
 ## Train
 ### Qwen-VL: To run on a machine with 8 GPUs:
 ```shell
 cd Qwen-VL
 sh finetune/finetune_lora_ds.sh
+```
+## Test
+### Measure the accuracy of disease diagnosis
+Generate Diagnosis_output.json by performing inference on the test data with the model. Afterward, execute the following code.
+```shell
+cd script
+python disease_diagnosis_accuracy.py
 ```
 
 ## Citation
