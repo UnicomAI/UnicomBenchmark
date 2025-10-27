@@ -5,6 +5,7 @@
 * [CDDMBench](./CDDMBench)：A multimodal benchmark dataset and model for crop disease diagnosis.
 * [RAODBench](./RAODBench)：A Benchmark for Road Abandoned Object Detection from Video Surveillance.
 * [TADBench](./TADBench)：A Large-scale Benchmark for Traffic Accidents Detection from Video Surveillance.
+* [MITS](./Multimodal-Intelligent-Traffic-Surveillance)：A large-scale **multimodal dataset** for intelligent traffic surveillance.
 ## News
 2024.6 We released an application-driven benchmark A-Eval.
 
@@ -15,5 +16,7 @@
 2024.12 We released a benchmark for road abandoned object detection from video surveillance, RAODBench.
 
 2025.1 We released a large-scale benchmark for traffic accidents detection from video surveillance, TADBench.
+
+2025.10 We released a large-scale **multimodal dataset** for intelligent traffic surveillance.
 ## Contact
 China Unicom AI Innovation Center, China United Network Communication Group Co.,Ltd.
